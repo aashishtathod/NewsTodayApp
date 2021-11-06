@@ -13,9 +13,6 @@ import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-  /*  private ArrayList<SingleArticle> allSingleArticleArrayList;
-    private RecyclerView recyclerView;
-    private  NewsAdapter adapter;*/
 
     private TabLayout tabLayout;
     private ViewPager2 viewPager2;
