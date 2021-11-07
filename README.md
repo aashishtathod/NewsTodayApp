@@ -53,7 +53,7 @@ You need to create a [News API](https://newsapi.org/) key and add it to the stri
 ---
 ---
 
-### View Full News Article By CLicking that SPecific one
+### View Full News Article By CLicking that Specific one
 ---
 ---
 ![Screenshot_2021-11-07-10-36-12-03_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/88925310/140634084-5432fa53-ded1-45c5-ac4b-21dabcbdbe54.jpg)
